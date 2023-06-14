@@ -16,8 +16,8 @@ test('mag', () => {
 test('magicsort', () => {
   const magic2 = [
     {name: 'мечник', health: 10},
-    {name: 'маг', health: 80},
-    {name: 'лучник', health: 100},
+    {name: 'лучник', health: 80},
+    {name: 'маг', health: 100},
   ];
 const magic = [
   {name: 'мечник', health: 10},
